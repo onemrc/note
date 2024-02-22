@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T06:45:29.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="AWdEA520TcJCB48U-xZj" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T11:27:25.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="JQIqJLG82LfAOg2X4lKx" version="23.1.5" type="github">
   <diagram name="第 1 页" id="7Wf6cqTyHwaIPKZCL2vt">
-    <mxGraphModel dx="1572" dy="2608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="2635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,7 +104,7 @@
         <mxCell id="cwitm3p27Mh2OY6QhC1o-40" value="webhook消息表存储" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="100" width="152" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwitm3p27Mh2OY6QhC1o-41" value="t_webhook_tiktok_retuen" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
+        <mxCell id="cwitm3p27Mh2OY6QhC1o-41" value="t_webhook_tiktok_return" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="370" y="10" width="208" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cwitm3p27Mh2OY6QhC1o-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cwitm3p27Mh2OY6QhC1o-40" target="cwitm3p27Mh2OY6QhC1o-41" edge="1">
@@ -199,7 +199,7 @@
           <mxGeometry x="652" y="1010" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwitm3p27Mh2OY6QhC1o-88" value="API调用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwitm3p27Mh2OY6QhC1o-89" value="API调用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="780" width="120" height="60" as="geometry" />
@@ -357,6 +357,15 @@
         </mxCell>
         <mxCell id="-dg85agbQZAnz1EDH5Hs-56" value="选择拒绝原因" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dg85agbQZAnz1EDH5Hs-61" value="is_pending" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1025" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-dg85agbQZAnz1EDH5Hs-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-dg85agbQZAnz1EDH5Hs-62" target="cwitm3p27Mh2OY6QhC1o-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dg85agbQZAnz1EDH5Hs-62" value="手动同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
