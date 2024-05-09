@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T07:06:58.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="eVPQiwhR4sDyPlffS5QR" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T06:03:47.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="C7OekPjx34-umpbrvYZO" version="24.3.0" type="github">
   <diagram name="第 1 页" id="9k2z1XegkXRDJ7r0-_jc">
     <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -31,29 +31,32 @@
         <mxCell id="MkHFsCLsAwI2TH1CDEJg-12" value="&lt;div&gt;转换成搬家对象：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ProductMoveVo&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vtB4lL2W39avdcQjAUXD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MkHFsCLsAwI2TH1CDEJg-14" target="vtB4lL2W39avdcQjAUXD-1">
+        <mxCell id="vtB4lL2W39avdcQjAUXD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MkHFsCLsAwI2TH1CDEJg-14" target="vtB4lL2W39avdcQjAUXD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MkHFsCLsAwI2TH1CDEJg-14" value="保存草稿" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vtB4lL2W39avdcQjAUXD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vtB4lL2W39avdcQjAUXD-1" target="vtB4lL2W39avdcQjAUXD-4">
+        <mxCell id="vtB4lL2W39avdcQjAUXD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vtB4lL2W39avdcQjAUXD-1" target="vtB4lL2W39avdcQjAUXD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vtB4lL2W39avdcQjAUXD-1" value="保存搬家记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="vtB4lL2W39avdcQjAUXD-1" value="保存搬家记录" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vtB4lL2W39avdcQjAUXD-4" value="tiktok自动填充上次选择类目" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="vtB4lL2W39avdcQjAUXD-4" value="tiktok自动填充上次选择类目" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vtB4lL2W39avdcQjAUXD-6" value="可用于检查是否采集过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vtB4lL2W39avdcQjAUXD-6" value="可用于检查是否采集过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="740" y="820" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vtB4lL2W39avdcQjAUXD-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtB4lL2W39avdcQjAUXD-6" target="vtB4lL2W39avdcQjAUXD-1">
+        <mxCell id="vtB4lL2W39avdcQjAUXD-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vtB4lL2W39avdcQjAUXD-6" target="vtB4lL2W39avdcQjAUXD-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="860" as="sourcePoint" />
             <mxPoint x="940" y="810" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GeGtFkLEg_Td-1IpfvMp-1" value="只传URL可能会被封IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="620" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
